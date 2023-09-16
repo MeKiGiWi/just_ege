@@ -5,6 +5,7 @@
 Например вы создали папку на рабочем столе с именем ege cd Desktop/ege
 
 Первый запуск:
+
     git init
     git config --global user.name "здесь ник на гит хаб"
     git config --global user.email "здесь почта с гит хаба"
@@ -18,6 +19,7 @@
     был git init и там выбрать нужный предмет
 
 Дальнейшее использование:
+
     Как только зашли в консоль cd путь_с_вашей_папкой
     git pull origin master
 
