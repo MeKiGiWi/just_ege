@@ -2,6 +2,7 @@
 Репозиторий гита для обсидиана.
 Для использования надо установить git и obsidian
 
+[Прикольные выноски](https://help.obsidian.md/Editing+and+formatting/Callouts/)
 
 Первый запуск:
 
@@ -60,4 +61,4 @@
         
         #тема например #циклы ПИШЕМ ВНИЗУ ЗАМЕТКИ если это тема заметки маленькая можно забить
         
-[Прикольные выноски](https://help.obsidian.md/Editing+and+formatting/Callouts/).
+
