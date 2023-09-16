@@ -24,3 +24,4 @@ for name in range(12, 2, -2):
 ```
 
 #циклы
+![[Pasted image 20230916225239.png]]
