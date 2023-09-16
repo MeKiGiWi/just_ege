@@ -1,6 +1,7 @@
 ```python
 for i in range(10):
 	pass
+	
 array = [1, 2, 3, 4, 5]
 for j in array:
 	print(j) 
