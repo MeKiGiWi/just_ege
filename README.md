@@ -41,7 +41,7 @@
         Тут блок кода на языке пайтон
         ```
         `Тут маленький блок кода` ` << этот знак где буква ё на англ
-        > [!callout name] все каллоуты [прикольные выноски](https://help.obsidian.md/Editing+and+formatting/Callouts)
+        > [!callout name] все каллоуты [прикольные выноски](https://help.obsidian.md/Editing+and+formatting/Callouts/).
 
         В найстройках сочетания клавиш включите тэг подсветка и выделение
         например на ctrl + space, после выделяете
