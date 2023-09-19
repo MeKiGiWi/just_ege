@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eval.md",
+                "file": "Индексация.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eval.md",
+                "file": "Индексация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eval.md",
+                "file": "Индексация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eval.md"
+                "file": "Индексация.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   "active": "972be175db6a07d0",
   "lastOpenFiles": [
     "Индексация.md",
+    "eval.md",
     "asd.canvas",
     "str.md",
     "Неизменяемые типы.md",
     "len.md",
     "print.md",
     "input.md",
-    "eval.md",
     "for.md",
     "semenpidor.md",
     "files/Pasted image 20230916225239.png",
