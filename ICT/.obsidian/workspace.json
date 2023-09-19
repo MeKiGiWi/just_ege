@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "print.md",
+                "file": "Индексация.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "print.md",
+                "file": "Индексация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "print.md",
+                "file": "Индексация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "print.md"
+                "file": "Индексация.md"
               }
             }
           }
@@ -138,22 +138,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "972be175db6a07d0",
   "lastOpenFiles": [
+    "asd.canvas",
+    "Индексация.md",
     "str.md",
+    "Неизменяемые типы.md",
+    "len.md",
     "print.md",
+    "input.md",
     "eval.md",
     "for.md",
-    "input.md",
-    "len.md",
     "semenpidor.md",
     "files/Pasted image 20230916225239.png",
     "files/Pasted image 20230916225701.png",
