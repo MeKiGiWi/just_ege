@@ -11,8 +11,15 @@
             "id": "399d5bc27a79b91c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Родительный мн.ч у сущет.canvas",
+                "viewState": {
+                  "x": -179.35888215409216,
+                  "y": -200.57478244879402,
+                  "zoom": -0.8000000000000006
+                }
+              }
             }
           }
         ]
@@ -65,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6103c09cdd6856dc",
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Родительный мн.ч у сущет.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Родительный мн.ч у сущет.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Родительный мн.ч у сущет.canvas"
+              }
             }
           }
         ]
@@ -138,8 +149,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c61bc25c6bf28b0",
+  "active": "399d5bc27a79b91c",
   "lastOpenFiles": [
+    "files/Pasted image 20230928161653.png",
+    "files/Pasted image 20230928161453.png",
+    "files/Pasted image 20230928161211.png",
+    "files/Pasted image 20230928160404.png",
+    "files/Pasted image 20230928155928.png",
+    "Родительный мн.ч у сущет.canvas",
+    "files/Pasted image 20230928160004.png",
+    "Pasted image 20230928155728.png.md",
+    "files/Pasted image 20230928155728.png",
+    "files/Pasted image 20230928154435.png",
+    "files/Pasted image 20230928154111.png",
+    "files/Pasted image 20230928153810.png",
+    "files/Pasted image 20230928153617.png",
+    "Мн.ч родительный падеж основа.md",
     "files"
   ]
 }
