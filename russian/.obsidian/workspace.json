@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Родительный мн.ч у сущет.canvas",
+                "file": "Наречие - слитное раздельное дефисное.canvas",
                 "viewState": {
-                  "x": 106,
-                  "y": -190.50000000000003,
-                  "zoom": -0.9090438869311995
+                  "x": -180.5,
+                  "y": -18.5,
+                  "zoom": -0.6174125343876776
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Родительный мн.ч у сущет.canvas",
+                "file": "Наречие - слитное раздельное дефисное.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Родительный мн.ч у сущет.canvas",
+                "file": "Наречие - слитное раздельное дефисное.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Родительный мн.ч у сущет.canvas"
+                "file": "Наречие - слитное раздельное дефисное.canvas"
               }
             }
           }
@@ -151,8 +151,13 @@
   },
   "active": "399d5bc27a79b91c",
   "lastOpenFiles": [
-    "files/Pasted image 20230928153459.png",
+    "Наречие.canvas",
+    "Наречие - слитное раздельное дефисное.canvas",
+    "Untitled.md",
     "Родительный мн.ч у сущет.canvas",
+    "Мн.ч родительный падеж основа.md",
+    "files/Pasted image 20230928230952.png",
+    "files/Pasted image 20230928153459.png",
     "files/Pasted image 20230928161653.png",
     "files/Pasted image 20230928161453.png",
     "files/Pasted image 20230928161211.png",
@@ -162,9 +167,6 @@
     "Pasted image 20230928155728.png.md",
     "files/Pasted image 20230928155728.png",
     "files/Pasted image 20230928154435.png",
-    "files/Pasted image 20230928154111.png",
-    "files/Pasted image 20230928153810.png",
-    "Мн.ч родительный падеж основа.md",
     "files"
   ]
 }

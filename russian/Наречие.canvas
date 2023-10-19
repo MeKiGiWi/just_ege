@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"ecbfde26d45f1888","type":"text","text":"##### **Причины**\n_почему? отчего?_\n**Примеры**\nсослепу, сгоряча, поневоле","x":-252,"y":-640,"width":192,"height":240,"color":"3"},
+		{"id":"5f18bf14d2693bff","type":"text","text":"##### Меры и степени\n_в какой степени? сколько? на сколько? в какой мере?_\n**Примеры**\nочень, чересчур, немало","x":-520,"y":-640,"width":240,"height":240,"color":"3"},
+		{"id":"acd87a77377a0647","type":"text","text":"##### **Времени**\n_когда? как долго? с каких пор? до каких пор?_\n**Примеры**\nрано, давно, сейчас","x":-808,"y":-624,"width":233,"height":210,"color":"3"},
+		{"id":"7223fa5473b85c81","type":"text","text":"##### **Образа действия**\n_как?  \nкаким образом?_\n**Примеры**\nгромко, дружно, буйно","x":-830,"y":-40,"width":255,"height":210,"color":"3"},
+		{"id":"ec86ca14f0b163a5","type":"text","text":"# Наречие","x":-120,"y":-90,"width":200,"height":90,"color":"4"},
+		{"id":"4e6bfc93e47dfbb0","type":"text","text":"#####  **Неопределенные**\nгде-то, куда-то, где-нибудь, кое-где, кое-как","x":535,"y":-414,"width":241,"height":146,"color":"2"},
+		{"id":"5b888d9e5f86be8a","type":"text","text":"#####  **Указательные**\nздесь, там, тогда, туда, тут, оттуда","x":359,"y":-610,"width":221,"height":135,"color":"2"},
+		{"id":"09da67bd012b22f1","type":"text","text":"#### Особая группа разрядов\nУказывают не на признак, а на само действие\n","x":140,"y":-240,"width":219,"height":200,"color":"2"},
+		{"id":"b6185683f43acd79","type":"text","text":"##### **Цели**\n_зачем? для чего?_\n**Примеры**\nНарочно, назло","x":0,"y":-617,"width":200,"height":196,"color":"3"},
+		{"id":"ddd39af404c185f1","type":"text","text":"#####  **Места**\n_где? куда? откуда?_\n**Примеры**\nвнизу, наверху, везде","x":-860,"y":-298,"width":223,"height":178,"color":"3"},
+		{"id":"72030a74dcd4987a","type":"text","text":"#### Обычные разряды\n","x":-400,"y":-240,"width":175,"height":103,"color":"3"},
+		{"id":"fab83964450b47e0","type":"text","text":"#####  **Отрицательные**\nнигде, никуда, негде, никогда\n","x":470,"y":-157,"width":230,"height":137,"color":"2"},
+		{"id":"d174cc4164b62ca8","type":"text","text":"#####  **Вопросительные**\nгде, куда, когда, зачем, почему\n","x":380,"y":65,"width":236,"height":162,"color":"2"},
+		{"id":"1ad8d998f9f13a11","x":-456,"y":153,"width":250,"height":207,"color":"5","type":"text","text":"##### О/Е После шипяших\n- Под ударением **О**\n- Без ударения **Е**\n\nГорячо, свежо\nНеуклюже, умоляюще"},
+		{"id":"e8bdb0ec772247fb","x":-69,"y":138,"width":349,"height":302,"color":"1","type":"text","text":"##### Окончание О/А\n- Приставки **-из, -до, с  - ==А==**\n- Приставки **-за, на, в - ==О==**\n>[!tip] Правило заново\n>Приставки за на в дают окончание **О** и вместе получается слово заново\n>\n"}
+	],
+	"edges":[
+		{"id":"aa19f40f60419a57","fromNode":"ec86ca14f0b163a5","fromSide":"left","toNode":"72030a74dcd4987a","toSide":"bottom","color":"3"},
+		{"id":"8a8a9b1900eff130","fromNode":"ec86ca14f0b163a5","fromSide":"top","toNode":"09da67bd012b22f1","toSide":"left","color":"2"},
+		{"id":"5167e95834d1d4c6","fromNode":"72030a74dcd4987a","fromSide":"left","toNode":"7223fa5473b85c81","toSide":"right","color":"3"},
+		{"id":"bade22538f7446d1","fromNode":"72030a74dcd4987a","fromSide":"left","toNode":"ddd39af404c185f1","toSide":"right","color":"3"},
+		{"id":"9e1ff177bf9cb7b6","fromNode":"72030a74dcd4987a","fromSide":"left","toNode":"acd87a77377a0647","toSide":"bottom","color":"3"},
+		{"id":"8e16b3d689489604","fromNode":"72030a74dcd4987a","fromSide":"top","toNode":"5f18bf14d2693bff","toSide":"bottom","color":"3"},
+		{"id":"e4c827999d4e21a4","fromNode":"72030a74dcd4987a","fromSide":"top","toNode":"ecbfde26d45f1888","toSide":"bottom","color":"3"},
+		{"id":"0b8c361200b7b8bc","fromNode":"72030a74dcd4987a","fromSide":"right","toNode":"b6185683f43acd79","toSide":"bottom","color":"3"},
+		{"id":"662bc075fd693cb8","fromNode":"09da67bd012b22f1","fromSide":"top","toNode":"5b888d9e5f86be8a","toSide":"bottom","color":"2"},
+		{"id":"ce8a95cbd64356d4","fromNode":"09da67bd012b22f1","fromSide":"top","toNode":"4e6bfc93e47dfbb0","toSide":"bottom","color":"2"},
+		{"id":"643d430556c70782","fromNode":"09da67bd012b22f1","fromSide":"bottom","toNode":"d174cc4164b62ca8","toSide":"left","color":"2"},
+		{"id":"857813106c4a8eb5","fromNode":"09da67bd012b22f1","fromSide":"right","toNode":"fab83964450b47e0","toSide":"left","color":"2"},
+		{"id":"6429a9a016e41135","fromNode":"ec86ca14f0b163a5","fromSide":"bottom","toNode":"1ad8d998f9f13a11","toSide":"top","color":"5"},
+		{"id":"e5f9ae4db64607eb","fromNode":"ec86ca14f0b163a5","fromSide":"bottom","toNode":"e8bdb0ec772247fb","toSide":"top","color":"1"}
+	]
+}
